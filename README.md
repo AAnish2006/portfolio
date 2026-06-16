@@ -75,7 +75,7 @@ Full-stack e-commerce platform with AI-powered product recommendations and promp
 
 ---
 
-## 🐍 Contribution graph
+##  Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AAnish2006/AAnish2006/output/github-snake-dark.svg" />
