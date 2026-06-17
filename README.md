@@ -1,110 +1,128 @@
-<!-- GitHub Profile README — Anish A -->
-<!-- Repo: AAnish2006/AAnish2006/README.md -->
-
 <div align="center">
 
-# Hi there, I'm Anish A 👋
+# Hi 👋, I'm ANISH A
 
-**Software Developer · Cybersecurity Analyst · AI Enthusiast**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Software+Engineer+in+Progress;Machine+Learning+Enthusiast;Cybersecurity+Explorer;Competitive+Programmer)](https://git.io/typing-svg)
 
-📍 Tamil Nadu, India 🇮🇳
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AAnish2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-a-3b3347330) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anishkvp08@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=AAnish2006&color=blue&style=flat-square)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AAnish2006&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor counter"/>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+# 🚀 About Me
 
-Aspiring Software Developer pursuing a B.E. with a CGPA of 6.8/10 at Sri Krishna College of Engineering and Technology. Proficient in C++, Python, JavaScript, Node.js, FastAPI, and MySQL. Experienced in cybersecurity, REST API development, database management, AI integration, and workflow automation.
-
-- 🎓 B.E. @ Sri Krishna College of Engineering & Technology, Coimbatore (2024–2028) · CGPA **6.8**
-- 🔭 Currently building AI-integrated tools and full-stack web apps
-- 🛡️ Exploring web app security, bug bounty hunting, and n8n workflow automation
-- 💬 Ask me about REST APIs, OpenAI integrations, and cybersecurity basics
-- ⚡ *Building at the intersection of code, security, and intelligence.*
-
----
-
-## 🛠️ Tech stack
-
-**Languages**
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/-postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frameworks & tools**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Security & AI**
-`Burp Suite` · `OpenAI API` · `n8n Automation` · `Prompt Engineering`
-
-**Domains**
-`Cybersecurity` · `AI/ML` · `Full-Stack Dev` · `REST APIs` · `Workflow Automation`
+- 🎓 Computer Science Student
+- 💻 Passionate about Software Engineering
+- 🤖 Exploring Machine Learning
+- 🔐 Interested in Cybersecurity & Bug Bounty
+- 🌱 Currently learning DSA and Backend Development
+- ⚡ Competitive Programming Enthusiast
 
 ---
 
-## 🚀 Projects
+# 🌐 Connect With Me
 
-### 🔧 Agriculture Product Platform
-> `React.js · Node.js · MySQL`
+<p align="left">
+<a href="https://www.linkedin.com/in/anish-a-3b3347330">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Web-based agricultural marketplace connecting farmers and customers via REST APIs and CRUD operations.
+<a href="https://github.com/AAnish2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://leetcode.com/u/anish_17/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-### 🔧 AI-Powered T-Shirt E-Commerce
-> `React.js · Node.js · MySQL · OpenAI API`
-
-Full-stack e-commerce platform with AI-powered product recommendations and prompt engineering UX.
-
+<a href="https://www.codechef.com/users/anish_a17">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 📊 GitHub stats
+# 🛠️ Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AAnish2006&theme=tokyonight&no-frame=true&row=1&column=7)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AAnish2006&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AAnish2006&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAnish2006&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 CodeChef Stats
+
+<p align="center">
+<img src="https://codechef-readme-stats.vercel.app/api?username=anish_a17"/>
+</p>
+
+---
+
+# 🍜 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/anish_17?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```text
+📚 Data Structures & Algorithms
+🤖 Machine Learning
+🌐 Backend Development
+🔐 Cybersecurity & Bug Bounty
+🏆 Competitive Programming
+```
+
+---
 
 <div align="center">
 
-![Anish A's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAnish2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### ⭐ Always Learning • Building • Improving ⭐
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAnish2006&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AAnish2006&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-##  Contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AAnish2006/AAnish2006/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AAnish2006/AAnish2006/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AAnish2006/AAnish2006/output/github-snake.svg" />
-</picture>
-
-> Enable via [platane/snk](https://github.com/platane/snk) GitHub Action.
-
-## 🛡️ Cybersecurity highlights
-
-- Web Application Security — HTTP/HTTPS, API Security, SQL Injection, IDOR, Request-Response Analysis
-- Bug Bounty methodology & vulnerability assessment
-- Hands-on Burp Suite experience
-
----
-
-## 🤖 AI & automation
-
-- Integrated OpenAI API into production web applications
-- Prompt engineering for AI-powered user experiences
-- Workflow automation with n8n and API integrations
-
----
-
-> 💡 *I read HTTP requests like others read novels — looking for plot holes.*
-
----
-
-<div align="center">
-  <sub>Made with ❤️ from Tamil Nadu · Always building, always learning 🚀</sub>
 </div>
